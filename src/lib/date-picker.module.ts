@@ -15,6 +15,7 @@ export {DayCalendarComponent} from './day-calendar/day-calendar.component';
 export {DayTimeCalendarComponent} from './day-time-calendar/day-time-calendar.component';
 export {TimeSelectComponent} from './time-select/time-select.component';
 export {MonthCalendarComponent} from './month-calendar/month-calendar.component';
+export {DayCalendarService} from './day-calendar/day-calendar.service';
 
 @NgModule({
   declarations: [
